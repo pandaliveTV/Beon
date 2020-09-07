@@ -17813,8 +17813,9 @@ h6 {
   color: #ffffff;
 }
 .u-body {
-  color: #111111;
-  background-color: #ffffff;
+  /* color: #111111; */
+  /* background-color: #ffffff; */
+  background-image: url(https://1.bp.blogspot.com/-pf02IoKEGZ4/X1ZvPUTvmLI/AAAAAAAAAqQ/lNa4-R_jsxIqbhaK84-P4iuBJUWIGjC0ACLcBGAsYHQ/s710/pexels-photo-733500copy.png);
 }
 /*end-variables color*/
 /*begin-variables font*/
