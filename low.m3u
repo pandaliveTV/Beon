@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/1181926_ico.png?ts=1600005603" group-title="",[color red]☠☠ WELCOME TO Beon Live ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/1181926_ico.png?ts=1600005603
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,Beon Sports 1
+https://ip1v4u.ml/BeonLive/srv-yac.m3u8/low.php/?s=1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,Beon Sports 2
+https://ip1v4u.ml/BeonLive/srv-yac.m3u8/low.php/?s=2
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,Beon Sports 3
+https://ip1v4u.ml/BeonLive/srv-yac.m3u8/low.php/?s=3
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,Beon Sports 4
+https://ip1v4u.ml/BeonLive/srv-yac.m3u8/low.php/?s=4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,Beon Sports 5
+https://ip1v4u.ml/BeonLive/srv-yac.m3u8/low.php/?s=5
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,Beon Sports 6
+https://ip1v4u.ml/BeonLive/srv-yac.m3u8/low.php/?s=6
