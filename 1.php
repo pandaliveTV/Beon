@@ -5,6 +5,5 @@ $homepage = file_get_contents('https://app.liveplanettv.com/beta/api.php?device_
 $pR = '/(?<=wmsAuthSign": ")(.*?)(?=")/';
  preg_match_all($pR, $homepage, $matches);
 $page= implode(', ',$matches[1]);
-
-echo "http://163.172.223.102:8081/arab@arb/beinsports4/playlist.m3u8?wmsAuthSign=".$page;
+header('Location: http://163.172.223.102:8081/arab@arb/beinsports4/playlist.m3u8?wmsAuthSign='.$page);
 ?>
