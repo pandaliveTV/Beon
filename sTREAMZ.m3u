@@ -54,4 +54,4 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/6eb4a7ff4b267f3.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,BEIN 13
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/a815fa21c57af98.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,test
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Osn/d60ff9b54410b34.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Osn/d60ff9b54410b34.m3u8|user-agent=SWIFTAGENT
