@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/1181926_ico.png?ts=1600005603" group-title="",[color red]☠☠ WELCOME TO Beon Live ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/1181926_ico.png?ts=1600005603
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,BEIN SPORTS NEWS 
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Osn/d60ff9b54410b34.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Osn/d60ff9b54410b34.m3u8|user-agent=SWIFTAGENT
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,BEIN 1  SD
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Sports/e3bd6ad94b985c1.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/204300_ico.png?ts=1600005717,BEIN 1  HD
